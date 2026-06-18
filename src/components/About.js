@@ -7,7 +7,7 @@ function About() {
       <h2 className="section-title">About Me</h2>
       <div className="about-content">
         <p>
-          I completed my final year of B.Tech pursuing a degree in Information Technology, focusing on developing my skills in Java and solving DSA problems.
+          I completed my final year of B.Tech in Information Technology, focusing on developing my skills in Java and solving DSA problems.
         </p>
         <p>
           I completed my schooling at Indian Public School and my intermediate education at IPS Prime Junior College.
